@@ -10,7 +10,6 @@ The system provides a **ChatGPT-like interface** where you can upload claim data
   <img src="https://i.ibb.co/TDckb4XG/Screenshot-2025-08-23-222459.png" alt="Claim AI Assistant Screenshot" width="800"/>
 </p>
 
-
 ## ✨ Features  
 
 - 💬 **ChatGPT-style UI** (React + Tailwind + shadcn/ui)  
