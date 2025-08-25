@@ -11,7 +11,6 @@ The system provides a **ChatGPT-like interface** where you can upload claim data
 </p>
 
 
-
 ## ✨ Features  
 
 - 💬 **ChatGPT-style UI** (React + Tailwind + shadcn/ui)  
